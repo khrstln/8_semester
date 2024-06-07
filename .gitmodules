@@ -1,0 +1,6 @@
+[submodule "Machine_Learning"]
+	path = Machine_Learning
+	url = https://github.com/khrstln/Machine_Learning
+[submodule "Parallel_programming"]
+	path = Parallel_programming
+	url = https://github.com/khrstln/Parallel-Programming
